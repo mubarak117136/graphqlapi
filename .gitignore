@@ -97,3 +97,9 @@ dmypy.json
 .pytype/
 
 cython_debug/
+
+static
+media
+
+static/*
+media/*
