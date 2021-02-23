@@ -3,3 +3,4 @@ psycopg2-binary==2.8.6
 python-decouple==3.3
 graphene-django==2.15.0
 django-graphql-jwt==0.3.1
+django-graphql-auth==0.3.15
